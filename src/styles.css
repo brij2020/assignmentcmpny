@@ -1,0 +1,30 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    background: #0062cc;
+    padding-bottom: 386px;
+  }
+  
+  .container {
+    padding-top: 145px;
+  }
+  .form-check-input {
+    position: absolute;
+    margin-top: 0.3rem;
+    margin-left: -2.25rem;
+  }
+  list-group-item {
+    position: relative;
+    display: block;
+    padding: 0.45rem 3.25rem !important;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+  }
+  .card {
+    background-color : #ced4da
+  }
+  .badge-primary {
+    color: #fff;
+    background-color: #ef0745;
+}
